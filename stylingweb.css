@@ -16,9 +16,9 @@
     width: 150px;
     padding: 5px;
     margin: 5px;
-    background-color: plum;
+    background-color: rgb(173, 129, 173);
     border-radius: 20px;
-    box-shadow: 4px 4px 5px plum;
+    box-shadow: 4px 4px 5px rgb(173, 129, 173);
     justify-content: center;
     flex-wrap: wrap;
     overflow:hidden;
@@ -36,7 +36,7 @@
     top:150px;
     width: 100px;
     height: 100px;
-    background-color: plum;
+    background-color: rgb(173, 129, 173);
     border-radius: 20%;
     transition: 0.5s;
 }
@@ -65,7 +65,7 @@
 {
     width: 150px;
     transform: scale(1.5);
-    background:linear-gradient(45deg, rgb(177, 180, 161),rgb(218, 57, 45), violet,rgb(179, 206, 8));
+    background-color:rgb(139, 106, 139);
     box-shadow: 4px 4px 5px black, -4px -4px 5px black;
     overflow: visible;
     transition: 0.5s;
